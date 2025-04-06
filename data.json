@@ -1,0 +1,23 @@
+[
+  {
+    "name": "AI Insider",
+    "url": "https://aiinsider.substack.com",
+    "tags": ["tech", "AI"],
+    "status": "active",
+    "notes": "Deep dives, weekly must-read"
+  },
+  {
+    "name": "Art Weekly",
+    "url": "https://artweekly.substack.com",
+    "tags": ["art", "culture"],
+    "status": "paused",
+    "notes": "Skipped last month, revisit later"
+  },
+  {
+    "name": "Science Digest",
+    "url": "https://sciencedigest.substack.com",
+    "tags": ["science"],
+    "status": "dropped",
+    "notes": "Not my thing anymore"
+  }
+]
