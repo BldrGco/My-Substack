@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Substack Organizer</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>My Substack Organizer</h1>
+    <input type="text" id="search" placeholder="Search subscriptions...">
+    <select id="filter">
+      <option value="all">All</option>
+      <option value="active">Active</option>
+      <option value="paused">Paused</option>
+      <option value="dropped">Dropped</option>
+    </select>
+    <button id="add-sub">Add Subscription</button>
+    <button id="export">Export Data</button>
+  </header>
+  <div id="subscriptions" class="grid"></div>
+  <script src="script.js"></script>
+</body>
+</html>
